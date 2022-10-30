@@ -1,3 +1,4 @@
-def sum(a,b){
+def sum(a,b)
+{
   echo "sum of ${a} and ${b} is ${a+b}"
 }
